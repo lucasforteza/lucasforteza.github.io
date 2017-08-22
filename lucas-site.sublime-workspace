@@ -519,6 +519,33 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 879,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 1204,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 46,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -567,8 +594,17 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/lucas"
+	],
 	"file_history":
 	[
+		"/C/xampp/htdocs/lucas/gulpfile.js",
+		"/C/xampp/htdocs/lucas/index.php",
+		"/C/xampp/htdocs/lucas/header.php",
+		"/C/xampp/htdocs/lucas/footer.php",
+		"/C/xampp/htdocs/drive_v2/assets/gulpfile.js",
 		"/C/xampp/htdocs/lucas/index.html",
 		"/C/xampp/htdocs/soap/wp-content/themes/soap/front-page.php",
 		"/C/Users/lsilveira/AppData/Local/Temp/fz3temp-2/front-page.php",
@@ -691,12 +727,7 @@
 		"/C/Users/lsilveira/Downloads/soap_international (2).sql",
 		"/C/Users/lsilveira/Downloads/soap_international (3).sql",
 		"/C/Users/lsilveira/AppData/Local/Temp/fz3temp-1/wp-config.php",
-		"/C/Users/lsilveira/AppData/Local/Temp/fz3temp-1/web.config",
-		"/C/Users/lsilveira/Downloads/soap_international (1).sql",
-		"/C/Users/lsilveira/Downloads/soap_international.sql",
-		"/C/Users/lsilveira/Downloads/soap_drive (2).sql",
-		"/C/xampp/htdocs/soap_international/wp-content/themes/SOAP/newsletter.php",
-		"/C/xampp/htdocs/soap_international/wp-content/themes/SOAP/navbar.php"
+		"/C/Users/lsilveira/AppData/Local/Temp/fz3temp-1/web.config"
 	],
 	"find":
 	{
@@ -893,8 +924,99 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 879,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								299,
+								299
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 46,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46,
+								46
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
